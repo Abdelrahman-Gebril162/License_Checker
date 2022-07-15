@@ -1,0 +1,1 @@
+web: gunicorn license_checker.wsgi:application --log-file -
